@@ -1,3 +1,3 @@
-# merge-conflict
+LOCAL
 
 Quelques lignes de texte
