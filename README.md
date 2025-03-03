@@ -1,3 +1,3 @@
-# merge-conflict
+REMOTE
 
 Quelques lignes de texte
